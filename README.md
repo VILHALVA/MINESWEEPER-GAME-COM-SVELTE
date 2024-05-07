@@ -59,7 +59,7 @@ Aqui está uma breve visão geral da estrutura do projeto:
       - Se você vencer, será parabenizado com uma mensagem de "Você venceu!".
 
    5. **Reiniciando o Jogo:**
-      - Após vencer ou perder, você pode clicar no botão "Play again" para reiniciar o jogo com as mesmas configurações ou alterá-las no menu de configuração.
+      - Após vencer ou perder, você pode clicar no botão "REINICIAR" para reiniciar o jogo com as mesmas configurações ou alterá-las no menu de configuração.
    
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
