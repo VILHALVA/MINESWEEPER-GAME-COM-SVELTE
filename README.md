@@ -4,7 +4,6 @@
 <img src="./IMAGENS/FOTO_1.png" align="center" width="500"> <br> 
 <img src="./IMAGENS/FOTO_2.png" align="center" width="500"> <br> 
 <img src="./IMAGENS/FOTO_3.png" align="center" width="500"> <br> 
-<img src="./IMAGENS/FOTO_4.png" align="center" width="500"> <br> 
 
 ## DESCRIÇÃO:
 O jogo é uma versão online do clássico "Campo Minado" (Minesweeper), onde o objetivo é descobrir todas as células sem bombas no menor tempo possível, evitando detonar as bombas. O tabuleiro é composto por células que podem conter bombas ou serem seguras. O jogador deve usar pistas fornecidas pelas células vizinhas para determinar quais células contêm bombas e quais estão seguras. O jogo termina quando todas as células seguras são reveladas ou uma bomba é detonada.
